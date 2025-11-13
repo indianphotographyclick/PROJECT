@@ -4,7 +4,6 @@
 This dataset contains statistics on the world's billionaires, including information about their businesses, industries, and personal details. It provides insights into the wealth distribution, business sectors, and demographics of billionaires worldwide.
 
 Project Structure : 
-
 1) Import Essential Libraries
 2) Data Overview & Cleaning
 3) Filtering
@@ -16,7 +15,6 @@ Project Structure :
 This dataset appears to contain a variety of features related to text analysis, sentiment analysis, and psychological indicators, likely derived from posts or text data. Some features include readability indices such as Automated Readability Index (ARI), Coleman Liau Index, and Flesch-Kincaid Grade Level, as well as sentiment analysis scores like sentiment compound, negative, neutral, and positive scores. Additionally, there are features related to psychological aspects such as economic stress, isolation, substance use, and domestic stress. The dataset seems to cover a wide range of linguistic, psychological, and behavioural attributes, potentially suitable for analyzing mental health-related topics in online communities or text data.
 
 Project Structure :
-
 1) Import Essential Libraries
 2) Data Overview & Cleaning
 3) Filtering
@@ -28,7 +26,6 @@ Project Structure :
 The Breast Cancer Dataset hosted on Kaggle is a powerful resource for researchers, data scientists, and machine learning enthusiasts looking to explore and develop predictive models for breast cancer diagnosis. This dataset, accessible via Kaggle, is designed for binary classification tasks to predict whether a breast tumor is benign or malignant. It provides a rich collection of features derived from digitized images of fine needle aspirates (FNA) of breast masses, making it an essential tool for advancing healthcare analytics and computational pathology. Below is a comprehensive, human-crafted description of the dataset, complete with examples and key highlights to make it engaging and informative.
 
 Project Structure : 
-
 1. Bring in Necessary Collections
 2. Data Insight
 3. Envisioning
